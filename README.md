@@ -6,6 +6,8 @@ In this post, I will demonstrate how to build a RESTful Web API using ASP.NET Co
 ![image](https://github.com/wanglong/NETCoreWebRESTfulAPIs/assets/316074/fe9097ce-1840-4736-b4a7-a1c4d4c29743)
 
 ![image](https://github.com/wanglong/NETCoreWebRESTfulAPIs/assets/316074/e1585ad6-4c2c-4a36-b2ae-d839d01e8082)
+
+
 This API will manage movie records stored in a relational database (SQL Server) as described in the table below:
 
 
